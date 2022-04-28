@@ -1,0 +1,22 @@
+@media (max-width: 992px) {
+  .nav-link {
+    display: none;
+  }
+
+  .header__look {
+    display: flex;
+    align-items: center;
+  }
+
+  /* .navbar-expand-lg .navbar-collapse {
+    display: none !important;
+  } */
+
+  .icon__app {
+    margin-left: 22px;
+  }
+
+  /* .navbar-dark .navbar-toggler {
+    display: none !important;
+  } */
+}
